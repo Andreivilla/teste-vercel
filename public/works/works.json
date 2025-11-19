@@ -1,5 +1,6 @@
 [
   {
+    "url": "Club-de-Afiliados",
     "nome": "Club de Afiliados",
     "coverImage": "works/aguia_sistemas/cover.png",
     "imagens": ["images/portfolio1.png", "images/portfolio2.png"],
@@ -14,6 +15,7 @@
     "site": ""
   },
   {
+    "url":"Gerenciador-de-Restaurante",
     "nome": "Gerenciador de Restaurante",
     "coverImage": "works/aguia_sistemas/cover.png",
     "imagens": ["images/portfolio1.png", "images/portfolio2.png"],

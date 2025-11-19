@@ -1,4 +1,5 @@
 export type Work = {
+  url: string;
   nome: string;
   coverImage: string;
   imagens?: string[];

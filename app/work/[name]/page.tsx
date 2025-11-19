@@ -16,7 +16,7 @@ export default async function Page({
   const json = await fs.readFile(filePath, 'utf8');
   const works: Work[] = JSON.parse(json);
 
-  const work = works.find((work) => work.nome === decodeURIComponent(name));
+  const work = works.find((work: Work) => work.nome === decodeURIComponent(name));
 
   return (
     <main className="flex flex-col px-12 ">
