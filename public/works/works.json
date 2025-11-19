@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Club de Afiliados",
+    "coverImage": "works/aguia_sistemas/cover.png",
+    "imagens": ["images/portfolio1.png", "images/portfolio2.png"],
+    "inicio": "11/2024",
+    "fim": "05/2025",
+    "cargo": "Estagiário",
+    "empresa": "Aguia Sistemas",
+    "techs": ["Delphi", "SQL", "Android"],
+    "coverDescription": "Estágio em desenvolvimento de software desenvolvendo por completo uma aplicação mobile para gerenciar clube de benefícios.",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "repositorio": "",
+    "site": ""
+  },
+  {
+    "nome": "Gerenciador de Restaurante",
+    "coverImage": "works/aguia_sistemas/cover.png",
+    "imagens": ["images/portfolio1.png", "images/portfolio2.png"],
+    "inicio": "11/2024",
+    "fim": "05/2025",
+    "cargo": "Estagiário",
+    "empresa": "Aguia Sistemas",
+    "techs": ["Delphi", "SQL", "Android"],
+    "coverDescription": "Estágio em desenvolvimento de software desenvolvendo por completo uma aplicação mobile para gerenciar clube de benefícios.",
+    "description": "",
+    "repositorio": "",
+    "site": ""
+  }
+]
